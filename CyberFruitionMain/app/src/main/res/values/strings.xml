@@ -1,0 +1,3979 @@
+<resources>
+ <string name="app_name">CyberFruition</string>
+ <!-- About Us -->
+ <string name="about_info">CyberFruition is your trusted companion for a healthy living. We are passionate about fruits and dedicated to helping you make the healthiest choices. With our mobile app, you can easily scan, identify, and learn more about the fruits you love.
+
+\n\nOur Mission:\n
+\nTo empower you with the knowledge to make informed choices about your fruit consumption, fostering a healthier and more nutritious lifestyle.
+
+\n\nWhy CyberFruition:\n
+
+\n•	Instant Fruit Identification
+\n•	Nutritional Information at Your Fingertips
+\n•	Promoting Healthy Eating Habits
+\n•	User-Friendly and Intuitive Design
+\n\nWelcome to a world of fruity goodness with CyberFruition. Download our app today and take the first step towards a healthier you!
+\n\n
+</string>
+ <!-- Fruit Classifications -->
+ <!-- Berries -->
+ <string name="berries_info">•	Berries are small, colorful fruits with sweet or tart flavors.
+\n•	Common types: strawberries, blueberries, raspberries, blackberries.
+\n•	Benefits: High in antioxidants, vitamins, and fiber.
+\n•	Promote heart health, cognitive function, and reduce cancer risk.
+</string>
+ <!-- Strawberry -->
+ <string name="strawberry_info">•	Strawberries: Rich in vitamin C and antioxidants, lowering cancer, diabetes, stroke, and heart disease risks.
+\n•	Good source of magnesium and phosphorus.
+\n•	Low in calories, under 50 per cup.
+\n•	Belong to Rosaceae family, share a biological link with roses, both having at least two separate pistils developing into achenes.
+</string>
+ <!-- Grape -->
+ <string name="grape_info">•	Grapes: Available in diverse colors (green, red, black, etc.).
+\n•	Rich in vitamins K and C, providing over 25% of daily recommended values.
+\n•	Over 8,000 grape varieties from around 60 species.
+\n•	Main categories: American and European types.
+        \n•	Fun fact: It takes about 2.5 pounds of grapes to make one wine bottle.\n\n
+</string>
+
+ <!-- Pits -->
+ <string name="pits_info">\n•	Pit Fruits: Peaches, cherries, apricots, plums, with hard seeds in fleshy layer.
+\n•	Rich in vitamin C, vitamin A, potassium, and dietary fiber.
+\n•	Dietary fiber supports digestive health.
+\n•	Abundant in antioxidants, protecting cells from damage.
+</string>
+ <!-- Coconut (Cocos nucifera) -->
+ <string name="coconut_info">\n•	Coconuts: Tropical fruit with hard, brown, fibrous shell.
+\n•	Edible white flesh, rich in healthy fats and fiber.
+\n•	Coconut water is a natural electrolyte-rich drink with potassium.
+\n•	Fun fact: Coconuts are "ocean messengers," using their buoyant husks to spread coconut palms to new coastal areas across oceans.
+</string>
+ <!-- Peaches (Prunus persica) -->
+ <string name="peaches_info">\n•	Peaches: Sweet and juicy with fuzzy yellow/orange skin.
+\n•	Flesh can be freestone or clingstone.
+\n•	Nutritious: Vitamins A and C, dietary fiber, low in calories and fat.
+\n•	In Chinese culture, symbolize long life and immortality, linked to the "Peaches of Immortality" in art and New Year celebrations.\n\n
+</string>
+ <!-- Cores -->
+ <string name="cores_info">\n•	Core fruits: Larger fruits with a central seed core, like apples and pears.
+\n•	Typically, they have a tough core that needs removal.
+\n•	Versatile for both raw and cooked uses.
+\n•	Benefits: High in dietary fiber, aids digestion and bowel regularity.
+\n•	Rich in vitamins, notably vitamin C, plus potassium and antioxidants.
+\n•	Promote overall health and well-being.
+</string>
+ <!-- Apple (Malus domestica) -->
+ <string name="apple_information">\n•	Apples: Popular worldwide, thin, edible skin, various colors.
+\n•	Rich in dietary fiber, vitamin C, and antioxidants.
+\n•	Promote heart health and aid digestion.
+\n•	Fun fact: Apple trees can live for over a century.
+</string>
+ <!-- Mango (Mangiferaindica) -->
+ <string name="mango_information">\n•	Mangoes: Sweet, juicy, aromatic, with inedible skin and a large seed.
+\n•	Rich in vitamin C, vitamin A (beta-carotene), dietary fiber, and antioxidants.
+\n•	Related to poison ivy and poison oak, can cause skin reactions in some due to shared allergenic compounds in their sap.\n\n
+</string>
+ <!-- Citrus -->
+ <string name="citrus_info">\n•	Citrus Fruits: Belong to Rutaceae family, high in vitamin C, tangy flavor.
+\n•	Thick rind, segmented flesh, sour to sweet taste.
+\n•	Common types: oranges, lemons, limes, grapefruits.
+\n•	Benefits: Immune system boost, healthy skin, dietary fiber, folate, antioxidants.
+\n•	Reduces heart disease risk, enhances overall health.
+</string>
+ <!-- Orange -->
+ <string name="orange_information">\n•	Oranges: Healthy fruit with blood sugar stabilization, heart health benefits, and vitamin C.
+\n•	Contains about 6% of daily calcium needs.
+\n•	Fun fact: The fruit orange is older than the color orange.
+</string>
+ <!-- Calamansi -->
+ <string name="calamansi_information">\n•	Calamansi: Rich in vitamin C, calcium, potassium, and vitamin A.
+\n•	Fights viruses, maintains iron levels, regulates blood glucose, and controls cholesterol.
+\n•	Aids detoxification, benefiting gallbladder, liver, colon, and kidneys.
+\n•	Unique appearance: Lime-like outside, tangerine-colored interior.
+\n•	Reduces heart disease risk, enhances overall health.\n\n
+</string>
+ <!-- Melons -->
+ <string name="melons_info">\n•	Melons: Large, sweet, juicy fruits with soft, edible flesh and seeds in a central cavity.
+\n•	Common types: watermelon, cantaloupe, honeydew.
+\n•	Benefits: Hydrating, rich in vitamins A and C.
+\n•	Low in calories, high in water, great for hot weather.
+\n•	Support healthy skin, eye health, and immune function.
+</string>
+ <!-- Watermelon -->
+ <string name="watermelon_information">\n•	Watermelon: Sweet, hydrating fruit from the gourd family.
+\n•	High water content, ideal for hot weather.
+\n•	Low in calories, rich in vitamin C, potassium, and lycopene (responsible for its red color).
+\n•	Seedless varieties created through controlled hybridization for convenience..
+</string>
+ <!-- Cantaloupe -->
+ <string name="cantaloupe_info">\n•	Cantaloupe: Globally popular melon with sweet, orange flesh and netted rind.
+\n•	Low in calories, rich in vitamins (C and A), potassium, and dietary fiber.
+\n•	Possibly named after the Italian village of Cantalupo, where they were first cultivated in Europe in the 18th century.\n\n
+</string>
+ <!-- Tropical -->
+ <string name="tropical_info">\n•	Tropical Fruits: Unique flavors, vibrant colors, exotic appearance.
+\n•	Sweet to tart, used in various dishes and beverages.
+\n•	Common types: mangoes, pineapples, papayas, bananas, coconuts.
+\n•	Benefits: Rich in vitamins, minerals, and antioxidants.
+\n•	Support overall health, e.g., mangoes high in A and C, pineapples aid digestion with bromelain, bananas provide potassium and dietary fiber.
+</string>
+ <!-- Banana -->
+ <string name="banana_information">\n•	Bananas: Nutritious fruit, rich in potassium, B vitamins, vitamin C, magnesium, and fiber.
+\n•	Promote heart and digestive health.
+\n•	Starch in unripe, sugars in ripe bananas.
+\n•	Banana plants are giant herbs, not trees.
+</string>
+ <!-- Avocado -->
+ <string name="avocado_information">\n•	Avocados: High in potassium, beneficial for blood pressure.
+\n•	Contain lutein and zeaxanthin, crucial for eye health.
+\n•	Named by Sir Hans Sloane in 1696, he called the tree "alligator pear tree" in a Jamaican plant catalog.\n\n
+</string>
+ <string name="empty_info"><font color='#de7745'>Fruit Classification:</font>\n\n\n<font color='#de7745'>Benefits</font>\n\n\n<font color='#de7745'>Fun Fact</font>\n\n\n
+   </string>
+
+ <!-- FRUITS SCANNER CONTENTS -->
+
+ <!-- Apple -->
+ <string name="apple">Apple</string>
+ <string name="apple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruit Classification</b>
+    <br/>
+    <small>
+         Cores
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Fact</b>
+    <br/>
+    <small>
+        Apples float in water because they are 25% air.
+    </small> <br/><br/><br/><br/>
+    ]]>
+    </string>
+
+ <!-- Banana -->
+ <string name="banana">Banana</string>
+ <string name="banana_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruit Classification</b>
+    <br/>
+    <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <small>
+         > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+         > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Fact</b>
+    <br/>
+    <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+    </small> <br/><br/><br/><br/>
+    ]]>
+    </string>
+
+ <!-- Orange -->
+ <string name="orange">Orange</string>
+ <string name="orange_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruit Classification</b>
+    <br/>
+    <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <small>
+         > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+         > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Fact</b>
+    <br/>
+    <small>
+        Oranges were originally a hybrid between a pomelo and a mandarin.
+    </small> <br/><br/><br/><br/>
+    ]]>
+    </string>
+
+ <!-- Pineapple -->
+ <string name="pineapple">Pineapple</string>
+ <string name="pineapple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruit Classification</b>
+    <br/>
+    <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <small>
+        > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+        > Pineapple leaves can be used to make textiles and crafts.
+   </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Fact</b>
+    <br/>
+    <small>
+        Pineapples take almost two years to grow from a seed to a mature fruit.
+    </small> <br/><br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Pineapples -->
+ <string name="pineapples">Pineapples</string>
+ <string name="pineapples_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruit Classification</b>
+    <br/>
+    <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <small>
+        > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+        > Pineapple leaves can be used to make textiles and crafts.
+   </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Fact</b>
+    <br/>
+    <small>
+        Pineapples take almost two years to grow from a seed to a mature fruit.
+    </small> <br/><br/><br/><br/>
+    ]]>
+    </string>
+
+ <!-- Mango -->
+ <string name="mango">Mango</string>
+ <string name="mango_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruit Classification</b>
+    <br/>
+    <small>
+         Tropical
+    </small> <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <small>
+        > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+        > Mango seeds can be used to make natural skincare scrubs.
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Fact</b>
+    <br/>
+    <small>
+        Mangoes are related to cashews and pistachios.
+    </small> <br/><br/><br/><br/>
+    ]]>
+    </string>
+
+ <!-- Lanzones -->
+ <string name="lanzones">Lanzones</string>
+ <string name="lanzones_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruit Classification</b>
+    <br/>
+    <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <small>
+        > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+        > Lanzones leaves can be used for traditional medicinal purposes.
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Fact</b>
+    <br/>
+    <small>
+        Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+    </small> <br/><br/><br/><br/>
+    ]]>
+    </string>
+
+ <!-- Jackfruit -->
+ <string name="jackfruit">Jackfruit</string>
+ <string name="jackfruit_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruit Classification</b>
+    <br/>
+    <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <small>
+        > Jackfruit is high in dietary fiber, making it beneficial for digestion and weight management. It is a source of vitamin C and various nutrients. Jackfruit seeds are rich in protein and can be roasted or used in cooking as a nutritious snack or meat substitute.<br/>
+        > Jackfruit leaves can be used for culinary purposes and to wrap food items.
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Fact</b>
+    <br/>
+    <small>
+        Jackfruit is the largest tree fruit in the world and can weigh up to 80 pounds (36 kg).
+    </small> <br/><br/><br/><br/>
+    ]]>
+    </string>
+
+ <!-- Papaya -->
+ <string name="papaya">Papaya</string>
+ <string name="papaya_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruit Classification</b>
+    <br/>
+    <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <small>
+        > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+        > Papaya can be used to naturally tenderize meat due to the presence of papain.
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Fact</b>
+    <br/>
+    <small>
+        Papain, an enzyme in papaya, is used as a meat tenderizer.
+    </small> <br/><br/><br/>
+    ]]>
+    </string>
+
+ <!-- Calamansi -->
+ <string name="calamansi">Calamansi</string>
+ <string name="calamansi_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruit Classification</b>
+    <br/>
+    <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <small>
+        > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+        > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Fact</b>
+    <br/>
+    <small>
+        Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+    </small> <br/><br/><br/>
+    ]]>
+    </string>
+
+ <!-- Durian -->
+ <string name="durian">Durian</string>
+ <string name="durian_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruit Classification</b>
+    <br/>
+    <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <small>
+        > Durian is rich in dietary fiber, potassium, and vitamin C. It provides energy due to its carbohydrate content and supports heart health by maintaining blood pressure. Despite its strong odor, it contains essential nutrients and may help with digestion.
+        > The wood of the durian tree is used for construction and furniture.
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Fact</b>
+    <br/>
+    <small>
+        Durian is known as the "King of Fruits" but has a strong, distinctive odor that many find unpleasant.
+    </small> <br/><br/><br/>
+    ]]>
+    </string>
+
+ <!-- Apple and Jackfruit -->
+ <string name="apple_and_jackfruit">Apple and Jackfruit</string>
+ <string name="apple_and_jackfruit_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Jackfruit</b><br/><small>
+        > Jackfruit is high in dietary fiber, making it beneficial for digestion and weight management. It is a source of vitamin C and various nutrients. Jackfruit seeds are rich in protein and can be roasted or used in cooking as a nutritious snack or meat substitute.<br/>
+        > Jackfruit leaves can be used for culinary purposes and to wrap food items.
+        </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        -
+        <small>
+        Jackfruit is the largest tree fruit in the world and can weigh up to 80 pounds (36 kg).
+        </small>
+        <br/><br/><br/>
+    ]]>
+    </string>
+
+ <!-- Apple and Lanzones -->
+ <string name="apple_and_lanzones">Apple and Lanzones</string>
+ <string name="apple_and_lanzones_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/><small>
+        > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+        > Lanzones leaves can be used for traditional medicinal purposes.
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+        <small>
+        Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+    </small>
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Lanzones and Apple -->
+ <string name="lanzones_and_apple">Lanzones and Apple</string>
+ <string name="lanzones_and_apple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/><small>
+        > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+        > Lanzones leaves can be used for traditional medicinal purposes.
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+        <small>
+        Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Apple and Mango -->
+ <string name="apple_and_mango">Apple and Mango</string>
+ <string name="apple_and_mango_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b><br/><small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+        <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!--  Mango and Apple -->
+ <string name="mango_and_apple">Mango and Apple</string>
+ <string name="mango_and_apple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b><br/><small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+        <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+
+ <!-- Apple and Orange -->
+ <string name="apple_and_orange">Apple and Orange</string>
+ <string name="apple_and_orange_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+        <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!--  Orange and Apple -->
+ <string name="orange_and_apple">Orange and Apple</string>
+ <string name="orange_and_apple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+        <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+ <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+        <br/><br/><br/>
+    ]]>
+    </string>
+
+ <!-- Apple and Papaya -->
+ <string name="apple_and_papaya">Apple and Papaya</string>
+ <string name="apple_and_papaya_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+        <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Papaya and Apple -->
+ <string name="papaya_and_apple">Papaya and Apple</string>
+ <string name="papaya_and_apple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+        <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Apple and Calamansi -->
+ <string name="apple_and_calamansi">Apple and Calamansi</string>
+ <string name="apple_and_calamansi_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/><small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Calamansi and Apple -->
+ <string name="calamansi_and_apple">Calamansi and Apple</string>
+ <string name="calamansi_and_apple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/><small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Apple and Pineapple -->
+ <string name="apple_and_pineapple">Apple and Pineapple</string>
+ <string name="apple_and_pineapple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/><small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+        <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Pineapple and Apple -->
+ <string name="pineapple_and_apple">Pineapple and Apple</string>
+ <string name="pineapple_and_apple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/><small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+        <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Apple and Banana -->
+ <string name="apple_and_banana">Apple and Banana</string>
+ <string name="apple_and_banana_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Banana</b><br/><small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+       Bananas are berries, botanically speaking, but strawberries are not!
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Banana and Apple -->
+ <string name="banana_and_apple">Banana and Apple</string>
+ <string name="banana_and_apple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Banana</b><br/><small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><br/>
+    <small>
+         > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+         > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+         </small>
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+       Bananas are berries, botanically speaking, but strawberries are not!
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+        Apples float in water because they are 25% air.
+        </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Banana and Calamansi -->
+ <string name="banana_and_calamansi">Banana and Calamansi</string>
+ <string name="banana_and_calamansi_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/><small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Calamansi and Banana -->
+ <string name="calamansi_and_banana">Calamansi and Banana</string>
+ <string name="calamansi_and_banana_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+     <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/><small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+        </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Banana and Pineapple -->
+ <string name="banana_and_pineapple">Banana and Pineapple</string>
+ <string name="banana_and_pineapple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/><small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+        <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Pineapple and Banana  -->
+ <string name="pineapple_and_banana">Pineapple and Banana</string>
+ <string name="pineapple_and_banana_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/><small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+        <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+        </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Banana and Papaya -->
+ <string name="banana_and_papaya">Banana and Papaya</string>
+ <string name="banana_and_papaya_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+        <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Papaya and Banana -->
+ <string name="papaya_and_banana">Papaya and Banana</string>
+ <string name="papaya_and_banana_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+        <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+        </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Banana and Orange -->
+ <string name="banana_and_orange">Banana and Orange</string>
+ <string name="banana_and_orange_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+        <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Orange and Banana -->
+ <string name="orange_and_banana">Orange and Banana</string>
+ <string name="orange_and_banana_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+        <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+        </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Banana and Mango -->
+ <string name="banana_and_mango">Banana and Mango</string>
+ <string name="banana_and_mango_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b><br/><small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+        <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!--Mango and Banana  -->
+ <string name="mango_and_banana">Mango and Banana</string>
+ <string name="mango_and_banana_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b><br/><small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+        <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+        </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Banana and Lanzones -->
+ <string name="banana_and_lanzones">Banana and Lanzones</string>
+ <string name="banana_and_lanzones_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/><small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+        <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Lanzones and Banana -->
+ <string name="lanzones_and_banana">Lanzones and Banana</string>
+ <string name="lanzones_and_banana_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/><small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+        <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+        </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Banana and Jackfruit -->
+ <string name="banana_and_jackfruit">Banana and Jackfruit</string>
+ <string name="banana_and_jackfruit_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Jackfruit</b><br/><small>
+       > Jackfruit is high in dietary fiber, making it beneficial for digestion and weight management. It is a source of vitamin C and various nutrients. Jackfruit seeds are rich in protein and can be roasted or used in cooking as a nutritious snack or meat substitute.<br/>
+       > Jackfruit leaves can be used for culinary purposes and to wrap food items.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+        Bananas are berries, botanically speaking, but strawberries are not!
+        </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        -
+        <small>
+       Jackfruit is the largest tree fruit in the world and can weigh up to 80 pounds (36 kg).
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Jackfruit and Papaya -->
+ <string name="jackfruit_and_papaya">Jackfruit and Papaya</string>
+ <string name="jackfruit_and_papaya_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b><br/>
+   <small>
+       > Jackfruit is high in dietary fiber, making it beneficial for digestion and weight management. It is a source of vitamin C and various nutrients. Jackfruit seeds are rich in protein and can be roasted or used in cooking as a nutritious snack or meat substitute.<br/>
+       > Jackfruit leaves can be used for culinary purposes and to wrap food items.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        -
+        <small>
+       Jackfruit is the largest tree fruit in the world and can weigh up to 80 pounds (36 kg).
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+        <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Jackfruit and Mango -->
+ <string name="jackfruit_and_mango">Jackfruit and Mango</string>
+ <string name="jackfruit_and_mango_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b><br/>
+   <small>
+       > Jackfruit is high in dietary fiber, making it beneficial for digestion and weight management. It is a source of vitamin C and various nutrients. Jackfruit seeds are rich in protein and can be roasted or used in cooking as a nutritious snack or meat substitute.<br/>
+       > Jackfruit leaves can be used for culinary purposes and to wrap food items.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b><br/><small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        -
+        <small>
+       Jackfruit is the largest tree fruit in the world and can weigh up to 80 pounds (36 kg).
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+        <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Jackfruit and Calamansi -->
+ <string name="jackfruit_and_calamansi">Jackfruit and Calamansi</string>
+ <string name="jackfruit_and_calamansi_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b><br/>
+   <small>
+       > Jackfruit is high in dietary fiber, making it beneficial for digestion and weight management. It is a source of vitamin C and various nutrients. Jackfruit seeds are rich in protein and can be roasted or used in cooking as a nutritious snack or meat substitute.<br/>
+       > Jackfruit leaves can be used for culinary purposes and to wrap food items.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/><small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        -
+        <small>
+       Jackfruit is the largest tree fruit in the world and can weigh up to 80 pounds (36 kg).
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Jackfruit and Orange -->
+ <string name="jackfruit_and_orange">Jackfruit and Orange</string>
+ <string name="jackfruit_and_orange_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b><br/>
+   <small>
+       > Jackfruit is high in dietary fiber, making it beneficial for digestion and weight management. It is a source of vitamin C and various nutrients. Jackfruit seeds are rich in protein and can be roasted or used in cooking as a nutritious snack or meat substitute.<br/>
+       > Jackfruit leaves can be used for culinary purposes and to wrap food items.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        -
+        <small>
+       Jackfruit is the largest tree fruit in the world and can weigh up to 80 pounds (36 kg).
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+        <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Jackfruit and Lanzones -->
+ <string name="jackfruit_and_lanzones">Jackfruit and Lanzones</string>
+ <string name="jackfruit_and_lanzones_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b><br/>
+   <small>
+       > Jackfruit is high in dietary fiber, making it beneficial for digestion and weight management. It is a source of vitamin C and various nutrients. Jackfruit seeds are rich in protein and can be roasted or used in cooking as a nutritious snack or meat substitute.<br/>
+       > Jackfruit leaves can be used for culinary purposes and to wrap food items.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/><small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        -
+        <small>
+       Jackfruit is the largest tree fruit in the world and can weigh up to 80 pounds (36 kg).
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+        <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Jackfruit and Pineapple -->
+ <string name="jackfruit_and_pineapple">Jackfruit and Pineapple</string>
+ <string name="jackfruit_and_pineapple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b><br/>
+   <small>
+       > Jackfruit is high in dietary fiber, making it beneficial for digestion and weight management. It is a source of vitamin C and various nutrients. Jackfruit seeds are rich in protein and can be roasted or used in cooking as a nutritious snack or meat substitute.<br/>
+       > Jackfruit leaves can be used for culinary purposes and to wrap food items.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/><small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        -
+        <small>
+       Jackfruit is the largest tree fruit in the world and can weigh up to 80 pounds (36 kg).
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+        <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Apple and Durian -->
+ <string name="apple_and_durian">Apple and Durian</string>
+ <string name="apple_and_durian_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        - <small>
+         Cores
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b><small>
+        > Apples are packed with dietary fiber, which helps regulate digestion and may lower the risk of heart disease. They are also rich in antioxidants and vitamin C, promoting overall health. Apples may aid in weight management due to their high fiber content. <br/>
+        > Apples can be used to make natural skincare products, such as apple-based face masks and toners, to improve skin health.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Durian</b><br/><small>
+       > Durian is rich in dietary fiber, potassium, and vitamin C. It provides energy due to its carbohydrate content and supports heart health by maintaining blood pressure. Despite its strong odor, it contains essential nutrients and may help with digestion.
+       > The wood of the durian tree is used for construction and furniture.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Apple</b>
+        -
+        <small>
+       Apples float in water because they are 25% air.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Durian</b>
+        -
+        <small>
+       > Durian is rich in dietary fiber, potassium, and vitamin C. It provides energy due to its carbohydrate content and supports heart health by maintaining blood pressure. Despite its strong odor, it contains essential nutrients and may help with digestion.
+       > The wood of the durian tree is used for construction and furniture.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Banana and Durian -->
+ <string name="banana_and_durian">Banana and Durian</string>
+ <string name="banana_and_durian_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b><br/>
+   <small>
+        > Bananas are a convenient and nutritious snack, offering a good dose of potassium, which is essential for heart health and muscle function. They are also a source of vitamin B6, promoting brain health, and provide natural energy due to their carbohydrate content. The dietary fiber in bananas aids in digestive regularity.<br/>
+        > Banana peels can be used as a natural fertilizer for plants, enriching the soil with nutrients.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Durian</b><br/><small>
+       > Durian is rich in dietary fiber, potassium, and vitamin C. It provides energy due to its carbohydrate content and supports heart health by maintaining blood pressure. Despite its strong odor, it contains essential nutrients and may help with digestion.
+       > The wood of the durian tree is used for construction and furniture.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Banana</b>
+        -
+        <small>
+       Bananas are berries, botanically speaking, but strawberries are not!
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Durian</b>
+        -
+        <small>
+       Durian is known as the "King of Fruits" but has a strong, distinctive odor that many find unpleasant.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Durian and Jackfruit -->
+ <string name="durian_and_jackfruit">Durian and Jackfruit</string>
+ <string name="durian_and_jackfruit_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b><br/>
+   <small>
+       > Durian is rich in dietary fiber, potassium, and vitamin C. It provides energy due to its carbohydrate content and supports heart health by maintaining blood pressure. Despite its strong odor, it contains essential nutrients and may help with digestion.
+       > The wood of the durian tree is used for construction and furniture.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Jackfruit</b><br/><small>
+       > Jackfruit is high in dietary fiber, making it beneficial for digestion and weight management. It is a source of vitamin C and various nutrients. Jackfruit seeds are rich in protein and can be roasted or used in cooking as a nutritious snack or meat substitute.<br/>
+       > Jackfruit leaves can be used for culinary purposes and to wrap food items.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        -
+        <small>
+       Durian is known as the "King of Fruits" but has a strong, distinctive odor that many find unpleasant.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Jackfruit</b>
+        -
+    <small>
+       Jackfruit is the largest tree fruit in the world and can weigh up to 80 pounds (36 kg).
+    </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Calamansi and Durian -->
+ <string name="calamansi_and_durian">Calamansi and Durian</string>
+ <string name="calamansi_and_durian_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/>
+   <small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Durian</b><br/><small>
+       > Durian is rich in dietary fiber, potassium, and vitamin C. It provides energy due to its carbohydrate content and supports heart health by maintaining blood pressure. Despite its strong odor, it contains essential nutrients and may help with digestion.
+       > The wood of the durian tree is used for construction and furniture.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Durian</b>
+        -
+    <small>
+       Durian is known as the "King of Fruits" but has a strong, distinctive odor that many find unpleasant.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Durian and Pineapple -->
+ <string name="durian_and_pineapple">Durian and Pineapple</string>
+ <string name="durian_and_pineapple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b><br/>
+   <small>
+       > Durian is rich in dietary fiber, potassium, and vitamin C. It provides energy due to its carbohydrate content and supports heart health by maintaining blood pressure. Despite its strong odor, it contains essential nutrients and may help with digestion.
+       > The wood of the durian tree is used for construction and furniture.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/><small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        -
+        <small>
+       Durian is known as the "King of Fruits" but has a strong, distinctive odor that many find unpleasant.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+    <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Durian and Papaya -->
+ <string name="durian_and_papaya">Durian and Papaya</string>
+ <string name="durian_and_papaya_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b><br/>
+   <small>
+       > Durian is rich in dietary fiber, potassium, and vitamin C. It provides energy due to its carbohydrate content and supports heart health by maintaining blood pressure. Despite its strong odor, it contains essential nutrients and may help with digestion.
+       > The wood of the durian tree is used for construction and furniture.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        -
+        <small>
+       Durian is known as the "King of Fruits" but has a strong, distinctive odor that many find unpleasant.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+    <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Durian and Mango -->
+ <string name="durian_and_mango">Durian and Mango</string>
+ <string name="durian_and_mango_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b><br/>
+   <small>
+       > Durian is rich in dietary fiber, potassium, and vitamin C. It provides energy due to its carbohydrate content and supports heart health by maintaining blood pressure. Despite its strong odor, it contains essential nutrients and may help with digestion.
+       > The wood of the durian tree is used for construction and furniture.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b><br/><small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        -
+        <small>
+       Durian is known as the "King of Fruits" but has a strong, distinctive odor that many find unpleasant.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+    <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Durian and Lanzones -->
+ <string name="durian_and_lanzones">Durian and Lanzones</string>
+ <string name="durian_and_lanzones_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b><br/>
+   <small>
+       > Durian is rich in dietary fiber, potassium, and vitamin C. It provides energy due to its carbohydrate content and supports heart health by maintaining blood pressure. Despite its strong odor, it contains essential nutrients and may help with digestion.
+       > The wood of the durian tree is used for construction and furniture.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/><small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        -
+        <small>
+       Durian is known as the "King of Fruits" but has a strong, distinctive odor that many find unpleasant.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+    <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Durian and Orange -->
+ <string name="durian_and_orange">Durian and Orange</string>
+ <string name="durian_and_orange_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b><br/>
+   <small>
+       > Durian is rich in dietary fiber, potassium, and vitamin C. It provides energy due to its carbohydrate content and supports heart health by maintaining blood pressure. Despite its strong odor, it contains essential nutrients and may help with digestion.
+       > The wood of the durian tree is used for construction and furniture.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Durian</b>
+        -
+        <small>
+       Durian is known as the "King of Fruits" but has a strong, distinctive odor that many find unpleasant.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+    <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Pineapple and Calamansi -->
+ <string name="pineapple_and_calamansi">Pineapple and Calamansi</string>
+ <string name="pineapple_and_calamansi_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/>
+   <small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/><small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+        <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+    <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Calamansi and Pineapple -->
+ <string name="calamansi_and_pineapple">Calamansi and Pineapple</string>
+ <string name="calamansi_and_pineapple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/><small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/>
+   <small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+    <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+        <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Pineapple and Lanzones -->
+ <string name="pineapple_and_lanzones">Pineapple and Lanzones</string>
+ <string name="pineapple_and_lanzones_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/>
+   <small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/><small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+        <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+    <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Lanzones and Pineapple -->
+ <string name="lanzones_and_pineapple">Lanzones and Pineapple</string>
+ <string name="lanzones_and_pineapple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/><small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/>
+   <small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+    <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+        <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Pineapple and Mango -->
+ <string name="pineapple_and_mango">Pineapple and Mango</string>
+ <string name="pineapple_and_mango_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/>
+   <small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b><br/><small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+        <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+   <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Mango and Pineapple -->
+ <string name="mango_and_pineapple">Mango and Pineapple</string>
+ <string name="mango_and_pineapple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b><br/><small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/>
+   <small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+   <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+        <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Pineapple and Orange -->
+ <string name="pineapple_and_orange">Pineapple and Orange</string>
+ <string name="pineapple_and_orange_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/>
+   <small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+        <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+   <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Orange and Pineapple -->
+ <string name="orange_and_pineapple">Orange and Pineapple</string>
+ <string name="orange_and_pineapple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/>
+   <small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+   <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+        <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Papaya and Pineapple -->
+ <string name="papaya_and_pineapple">Papaya and Pineapple</string>
+ <string name="papaya_and_pineapple_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b><br/>
+   <small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/><small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+        <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+   <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Pineapple and Papaya -->
+ <string name="pineapple_and_papaya">Pineapple and Papaya</string>
+ <string name="pineapple_and_papaya_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b><br/><small>
+       > Pineapples are rich in vitamin C, promoting a healthy immune system and skin. They contain bromelain, an enzyme that aids digestion and may reduce inflammation. The fruit is also a source of antioxidants, which combat free radicals and protect against chronic diseases.<br/>
+       > Pineapple leaves can be used to make textiles and crafts.
+  </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b><br/>
+   <small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Pineapple</b>
+        -
+   <small>
+       Pineapples take almost two years to grow from a seed to a mature fruit.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+        <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Lanzones and Papaya -->
+ <string name="lanzones_and_papaya">Lanzones and Papaya</string>
+ <string name="lanzones_and_papaya_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/>
+   <small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+        <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+   <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Papaya and Lanzones -->
+ <string name="papaya_and_lanzones">Papaya and Lanzones</string>
+ <string name="papaya_and_lanzones_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/>
+   <small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+   <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+        <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Mango and Papaya -->
+ <string name="mango_and_papaya">Mango and Papaya</string>
+ <string name="mango_and_papaya_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b><br/>
+   <small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+        <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+   <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Papaya and Mango -->
+ <string name="papaya_and_mango">Papaya and Mango</string>
+ <string name="papaya_and_mango_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b><br/>
+   <small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+   <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+        <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Orange and Papaya -->
+ <string name="orange_and_papaya">Orange and Papaya</string>
+ <string name="orange_and_papaya_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b><br/>
+   <small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+        <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+   <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Papaya and Orange -->
+ <string name="papaya_and_orange">Papaya and Orange</string>
+ <string name="papaya_and_orange_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b><br/>
+   <small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+     <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+   <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+        <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Calamansi and Papaya -->
+ <string name="calamansi_and_papaya">Calamansi and Papaya</string>
+ <string name="calamansi_and_papaya_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/>
+   <small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+   <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Papaya and Calamansi -->
+ <string name="papaya_and_calamansi">Papaya and Calamansi</string>
+ <string name="papaya_and_calamansi_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b><br/><small>
+       > Papayas are loaded with vitamin C and vitamin A, which is beneficial for skin health and vision. They contain an enzyme called papain that aids digestion and can be used to soothe digestive discomfort. The dietary fiber in papaya supports regular bowel movements.<br/>
+       > Papaya can be used to naturally tenderize meat due to the presence of papain.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/>
+   <small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Papaya</b>
+        -
+   <small>
+       Papain, an enzyme in papaya, is used as a meat tenderizer.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Calamansi and Lanzones -->
+ <string name="calamansi_and_lanzones">Calamansi and Lanzones</string>
+ <string name="calamansi_and_lanzones_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/>
+   <small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/><small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+   <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Lanzones and Calamansi -->
+ <string name="lanzones_and_calamansi">Lanzones and Calamansi</string>
+ <string name="lanzones_and_calamansi_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/><small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/>
+   <small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+   <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Calamansi and Mango -->
+ <string name="calamansi_and_mango">Calamansi and Mango</string>
+ <string name="calamansi_and_mango_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/>
+   <small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b><br/><small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+   <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Mango and Calamansi -->
+ <string name="mango_and_calamansi">Mango and Calamansi</string>
+ <string name="mango_and_calamansi_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b><br/><small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/>
+   <small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+   <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Calamansi and Orange -->
+ <string name="calamansi_and_orange">Calamansi and Orange</string>
+ <string name="calamansi_and_orange_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/>
+   <small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+   <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Orange and Calamansi -->
+ <string name="orange_and_calamansi">Orange and Calamansi</string>
+ <string name="orange_and_calamansi_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        - <small>
+         Citrus
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b><br/>
+   <small>
+       > Calamansi is an excellent source of vitamin C, known for its immune-boosting properties. The antioxidants in calamansi help combat free radicals in the body, reducing the risk of chronic diseases. It can also promote healthy skin and improve collagen production.<br/>
+       > Calamansi juice can be used as a natural stain remover for clothing and fabrics.
+   </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+   <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Calamansi</b>
+        -
+        <small>
+       Calamansi is often used in Filipino cuisine to add a tangy flavor to dishes.
+   </small>
+
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Lanzones and Mango -->
+ <string name="lanzones_and_mango">Lanzones and Mango</string>
+ <string name="lanzones_and_mango_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/>
+   <small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b><br/><small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+        <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+   <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Mango and Lanzones -->
+ <string name="mango_and_lanzones">Mango and Lanzones</string>
+ <string name="mango_and_lanzones_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Tropical
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b><br/><small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/>
+   <small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+   <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+        <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Lanzones and Orange -->
+ <string name="lanzones_and_orange">Lanzones and Orange</string>
+ <string name="lanzones_and_orange_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/>
+   <small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+        <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+   <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Orange and Lanzones -->
+ <string name="orange_and_lanzones">Orange and Lanzones</string>
+ <string name="orange_and_lanzones_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        - <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b><br/>
+   <small>
+       > Lanzones offer essential vitamins and minerals, including vitamin A, B-complex vitamins, and potassium. They are low in calories and can be part of a healthy diet. The fruits nutrients support overall health and well-being.<br/>
+       > Lanzones leaves can be used for traditional medicinal purposes.
+   </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+   <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Lanzones</b>
+        -
+        <small>
+       Lanzones are often referred to as "Langsat" and are native to Southeast Asia.
+   </small>
+
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Mango and Orange -->
+ <string name="mango_and_orange">Mango and Orange</string>
+ <string name="mango_and_orange_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b><br/>
+   <small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+        <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+   <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+ <!-- Orange and Mango -->
+ <string name="orange_and_mango">Orange and Mango</string>
+ <string name="orange_and_mango_info">
+    <![CDATA[
+    <b><font color="#de7745" face="poppins_bold">Fruits Classification</b>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Orange</b>
+        - <small>
+         Citrus
+    </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        - <small>
+         Tropical
+    </small>
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Benefits and Use</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b><br/><small>
+        > Oranges are renowned for their high vitamin C content, which supports a healthy immune system and collagen production. They also provide dietary fiber, which aids digestion and may help reduce cholesterol levels. Oranges are a good source of folate, potassium, and antioxidants.<br/>
+        > Orange peels can be used for natural cleaning products due to their pleasant scent and natural cleaning properties.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b><br/>
+   <small>
+       > Mangoes are high in vitamin A, which is vital for maintaining healthy vision and skin. They are also a great source of vitamin C and dietary fiber. Mangoes have antioxidant properties that may help protect against oxidative stress and boost the immune system.<br/>
+       > Mango seeds can be used to make natural skincare scrubs.
+   </small>
+
+
+
+    <br/><br/>
+    <b><font color="#de7745" face="poppins_bold">Fun Facts</b>
+    <br/>
+        <b><font color="#de7745" face="poppins_bold">Orange</b>
+        -
+   <small>
+       Oranges were originally a hybrid between a pomelo and a mandarin.
+   </small>
+    <br/>
+    <b><font color="#de7745" face="poppins_bold">Mango</b>
+        -
+        <small>
+       Mangoes are related to cashews and pistachios.
+   </small>
+
+
+
+        <br/><br/><br/>
+    ]]>
+    </string>
+</resources>

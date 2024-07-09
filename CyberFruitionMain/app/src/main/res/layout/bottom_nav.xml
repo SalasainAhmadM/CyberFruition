@@ -1,0 +1,40 @@
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/lighter_orange3"/>
+
+    <ImageButton
+        android:id="@+id/buttonCaptureCamera"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginStart="110dp"
+        android:background="@color/lighter_orange3"
+        android:src="@drawable/camicon"
+        android:scaleType="fitCenter"
+        android:padding="10dp"/>
+
+
+    <ImageButton
+        android:id="@+id/buttonSelectImage"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="110dp"
+        android:background="@color/lighter_orange3"
+        android:src="@drawable/fruitclassicon"
+        android:scaleType="fitCenter"
+        android:padding="10dp"/>
+
+
+</RelativeLayout>

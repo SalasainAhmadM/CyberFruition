@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightest_orange"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <include
+        layout="@layout/toolbar_cyberfruit"
+        android:id="@+id/toolbar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!-- Centered TextView -->
+        <TextView
+            android:id="@+id/centeredTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/poppins_regular"
+            android:text="Click the button to identify fruits"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+
+        <!-- Centered Button -->
+        <Button
+            android:id="@+id/centeredButton"
+            android:layout_width="270dp"
+            android:layout_height="70dp"
+            android:layout_below="@id/centeredTextView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:fontFamily="@font/poppins_regular"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:textAllCaps="false"
+            android:background="@drawable/rounded_button2"
+            android:text="Start Identifying" />
+
+        <!-- Centered ImageView -->
+        <ImageView
+            android:id="@+id/centeredImageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/centeredButton"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="66dp"
+            android:src="@drawable/fruitsbg" />
+
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/bottom_navigation"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_alignParentBottom="true"
+            app:itemIconSize="50dp"
+            android:background="@drawable/bottombackground"
+            app:itemIconTint="@color/white"
+            app:menu="@menu/bottom_menu" />
+
+
+    </RelativeLayout>
+</LinearLayout>
